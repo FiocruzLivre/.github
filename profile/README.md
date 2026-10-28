@@ -16,9 +16,9 @@ A organização reúne projetos e contribuições de pessoas e instituições da
 
 Entre os participantes da fase inicial estão:
 
-- [LibreCode Coop](https://github.com/LibreCodeCoop) — cooperativa especializada em soluções livres, responsável pelas primeiras implementações hospedadas nesta organização.
-- [Lívia Gouvêa](https://github.com/liviacarolgouvea) — uma das mantenedoras iniciais, quando integrava a LibreCode Coop e exercia o cargo de diretora-presidente da cooperativa.
-- [Vitor Mattos](https://github.com/VitorMattos) — participante da manutenção inicial e diretor de tecnologia da [LibreCode Coop](https://github.com/LibreCodeCoop).
+- [LibreCode Coop](https://github.com/LibreCodeCoop): cooperativa especializada em soluções livres, responsável pelas primeiras implementações hospedadas nesta organização.
+- [Lívia Gouvêa](https://github.com/liviacarolgouvea): uma das mantenedoras iniciais, quando integrava a LibreCode Coop e exercia o cargo de diretora-presidente da cooperativa.
+- [Vitor Mattos](https://github.com/VitorMattos): participante da manutenção inicial e diretor de tecnologia da [LibreCode Coop](https://github.com/LibreCodeCoop).
 
 Atualmente, a LibreCode Coop segue como mantenedora da organização, contribuindo com suporte técnico e curadoria dos repositórios. A participação histórica não implica vínculo ou cargo atual das pessoas citadas.
 
